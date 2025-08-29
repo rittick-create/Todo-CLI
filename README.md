@@ -1,5 +1,5 @@
 # Todo-CLI
-Creating an todo command line interface...user can create a daly based todo application through command line
+Creating an todo command line interface...user can create a daily based todo application through command line
 
 
 ## Features ✨
